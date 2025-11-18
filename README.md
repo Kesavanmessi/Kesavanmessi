@@ -73,12 +73,6 @@ AI-based platform that extracts skills from resumes and recommends jobs using ML
 
 ---
 
-## 📊 GitHub Analytics  
-
-![Kesavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kesavanmessi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kesavanmessi&layout=compact&theme=radical)
-
----
 
 ## 🌐 Connect With Me  
 
