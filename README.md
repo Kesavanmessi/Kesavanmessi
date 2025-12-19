@@ -55,16 +55,17 @@ Real-time sports score & stats platform with push notifications and API data syn
 
 ---
 
-### 🤖 **AI Powered Job Matchmaking System**  
-AI-based platform that extracts skills from resumes and recommends jobs using ML-powered scoring.  
-🔹 **Tech:** React, Node.js, Express, MongoDB, Python (ML), JWT  
-🔗 GitHub: https://github.com/Kesavanmessi/Ai_Powered_job_MatchMaking  
+### 🏦 **Multithreaded Console Bank Application**
+A Java-based console banking system designed to demonstrate multithreading, synchronization, and robust exception handling through concurrent account transactions.  
+🔹 **Tech:** Java, Threads & Runnable, Synchronization, Custom Exceptions, Collections, Streams, Comparable, Comparator  
+🔗 **GitHub:** https://github.com/Kesavanmessi/Console_Bank_Application
+
+
 
 ---
 
 ## 🏆 Achievements  
 - 🧩 Solved **700+ DSA problems** on LeetCode  
-- 🥇 Top 10 out of **900+ participants** in college coding contest  
 
 ---
 
